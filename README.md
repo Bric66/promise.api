@@ -9,3 +9,9 @@ I written for you two function where you can write the code then launch it. If y
 <br/>
 
 Good luck and may the force be with you !..
+
+Bonus : Make the base url from the api configurable in a .env file :-)
+A base url is the begining of the url for exemple :
+
+https://google.com/azejpoazeazoe
+The base url will be https://google.com
